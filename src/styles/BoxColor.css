@@ -1,0 +1,8 @@
+.BoxColor{
+    /* background:  red; */
+    display: block;
+    width: 30%;
+    margin: 1%;
+    border: 1px solid black;    
+
+}

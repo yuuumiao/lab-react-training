@@ -1,0 +1,37 @@
+.CreditCard{
+    border-radius: 20px;
+    width:30vw;
+    height: 17vw;
+    margin: 1%;
+    display: inline-block;
+
+    
+}
+
+.CreditCard__dateBank{
+    display: flex;
+    margin-left: 3vw;
+
+}
+
+.CreditCard__number{
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.CreditCard__owner{
+    text-align: left;
+    margin-left: 3vw;
+}
+
+
+
+.CreditCard img{
+    width: auto;
+    height: 2vW;
+
+}
+
+.CreditCard__type{
+    text-align: right;
+}
